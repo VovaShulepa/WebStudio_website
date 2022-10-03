@@ -7,5 +7,5 @@ Individual project "WebStudio"
    - HTML5
    - CSS
    - SASS
-   - Java +Script
+   - Java Script
     
