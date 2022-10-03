@@ -1,5 +1,5 @@
 # WebStudio_website
-Individual project "WebStudio"
+Individual project "WebStudio" GoIT
 
 
    - VS Code
